@@ -1,8 +1,7 @@
 .DS_Store
 **/.DS_Store
 
-cocos2d/**
-bin/**
+
 
 **/xcuserdata/**
 **/build/**
@@ -26,7 +25,7 @@ bin/**
 *.tlog
 
 *ipch*
-proj.win32/Debug.win32/beatupisis.log
+
 
 *.exe
 
@@ -34,8 +33,3 @@ proj.win32/Debug.win32/beatupisis.log
 
 raw/*
 
-proj.win32/beatupisis.v12.suo
-proj.win32/Debug.win32/*
-
-
-proj.android/assets/*
